@@ -1,6 +1,6 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23D00000.svg?style=plastic&logo=mathworks&logoColor=white)
 
-![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/KD-Tree)
+![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/KD-Tree-Matlab)
 
 # KD-Tree Implementation in MATLAB
 
