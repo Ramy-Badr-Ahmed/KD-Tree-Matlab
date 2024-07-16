@@ -8,6 +8,10 @@ This repository contains MATLAB scripts for implementing and using a kd-tree dat
 
 The kd-tree is a space-partitioning data structure for organising points in a k-dimensional space.
 
+### About
+
+   > [Mathematica Link](https://reference.wolfram.com/language/ref/datastructure/KDTree.html)
+
 ### Scripts
 
 1. `buildKDTree.m`
